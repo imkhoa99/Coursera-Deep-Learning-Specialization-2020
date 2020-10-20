@@ -7,7 +7,7 @@ This repository contains all my work for this specialization. All the codes, qui
 
 The specialization comprises of 4 consecutive courses (except for the 3th course Structuring Machine Learning Projects, which could be taken separately) that covers from the most basic fundamental block of Deep Learning, including Perceptron, Unit, Single hidden layer to the state-of-the-art models for performing Classification and Image Recognition, NLP, etc.
 - Course 1: [Natural Networks and Deep Learning](https://www.coursera.org/learn/classification-vector-spaces-in-nlp)
-- Course 2: [Natural Language Processing with Probabilistic Models](https://www.coursera.org/learn/probabilistic-models-in-nlp)
+- Course 2: [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/learn/probabilistic-models-in-nlp)
 - Course 3: [Natural Language Processing with Sequence Models](https://www.coursera.org/learn/sequence-models-in-nlp)
 - Course 4: [Natural Language Processing with Attention Models](https://www.coursera.org/learn/attention-models-in-nlp)
 
